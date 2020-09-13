@@ -11,8 +11,12 @@
 
 #navDiv ul li {
     float: left;
+    margin-left: 10px;
     padding-left: 10px;
     padding-top: 20px;
+    border: 3px solid cornsilk;
+    border-radius: 10px;
+    
 }
 
 #navDiv ul li a {
